@@ -5,6 +5,6 @@
 | CPU | Intel i9 14900K | Intel i9 14900K | Intel Ultra 9 285K |
 | Cooling | EKWB EK-Nucleus AIO CR240 Dark | EKWB EK-Nucleus AIO CR360 Dark |
 | RAM | [Kingstone KF556C40BB-32](https://www.kingston.com/en/memory/search/model/106203/asus-rog-strix-z790-i-gaming-wifi?speed=6000mt%2Fs%7C5600mt%2Fs&capacity=48%7C32&kits=single%20module) | [Kingstone KF560C32RS-48](https://www.kingston.com/en/memory/search/model/106328/asus-proart-z790-creator-wifi?speed=6000mt%2Fs%7C5600mt%2Fs&capacity=48%7C32&kits=single%20module) |  |
-| Graphics | [MSI GeForce RTX™ 4070 Ti VENTUS 2X 12G OC](https://www.msi.com/Graphics-Card/GeForce-RTX-4070-Ti-VENTUS-2X-12G-OC?_gl=1*tkl5id*_up*MQ..*_ga*MTI4MDgzMjc0OS4xNzM2OTUzMjQ3*_ga_2FQZ8W9D09*MTczNjk1MzI0NC4xLjAuMTczNjk1MzI0NC42MC4wLjA.) | [MSI GeForce RTX™ 4070 Ti VENTUS 3X 12G OC](https://www.msi.com/Graphics-Card/GeForce-RTX-4070-Ti-VENTUS-3X-12G-OC?_gl=1*ra0f72*_up*MQ..*_ga*MTI4MDgzMjc0OS4xNzM2OTUzMjQ3*_ga_2FQZ8W9D09*MTczNjk1MzI0NC4xLjAuMTczNjk1MzI0NC42MC4wLjA.)
+| Graphics | [MSI GeForce 4070 Ti VENTUS 2X 12G OC](https://www.msi.com/Graphics-Card/GeForce-RTX-4070-Ti-VENTUS-2X-12G-OC?_gl=1*tkl5id*_up*MQ..*_ga*MTI4MDgzMjc0OS4xNzM2OTUzMjQ3*_ga_2FQZ8W9D09*MTczNjk1MzI0NC4xLjAuMTczNjk1MzI0NC42MC4wLjA.) | [MSI GeForce 4070 Ti VENTUS 3X 12G OC](https://www.msi.com/Graphics-Card/GeForce-RTX-4070-Ti-VENTUS-3X-12G-OC?_gl=1*ra0f72*_up*MQ..*_ga*MTI4MDgzMjc0OS4xNzM2OTUzMjQ3*_ga_2FQZ8W9D09*MTczNjk1MzI0NC4xLjAuMTczNjk1MzI0NC42MC4wLjA.)
 | Storage |
 | PSU |
