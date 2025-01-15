@@ -1,6 +1,6 @@
 |  | MiniITX | 1700 | 1851 |
 | --- | --- | --- | --- |
-| Case | M1 Case | Cougar MX670 RGB | Cougar MX670 RGB |
+| Case | [NCASE M1](https://ncased.com/products/m1-classic?srsltid=AfmBOoqzC_mmD5G9yc8sZ-iAbEUfBYUw_uWU5RHJxGQt9XLTLrvQSNAb) | [Cougar MX670 RGB](https://cougargaming.com/products/cases/mx670-rgb/) | [Cougar MX670 RGB](https://cougargaming.com/products/cases/mx670-rgb/) |
 | Motherboard | [Asus ROG STRIX Z790-I GAMING WIFI](https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-i-gaming-wifi-model/) | [Asus ProArt Z790-CREATOR WIFI](https://www.asus.com/motherboards-components/motherboards/proart/proart-z790-creator-wifi/) | [Asus ProArt Z890-CREATOR WIFI](https://www.asus.com/motherboards-components/motherboards/proart/proart-z890-creator-wifi/) |
 | CPU | Intel i9 14900K | Intel i9 14900K | Intel Ultra 9 285K |
 | Cooling | [EKWB EK-Nucleus AIO CR240 Dark](https://www.ekwb.com/shop/ek-nucleus-aio-cr240-dark) | [EKWB EK-Nucleus AIO CR360 Dark](https://www.ekwb.com/shop/ek-nucleus-aio-cr360-dark) | [EKWB EK-Nucleus AIO CR360 Dark](https://www.ekwb.com/shop/ek-nucleus-aio-cr360-dark) |
