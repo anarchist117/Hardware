@@ -1,10 +1,10 @@
 |  | MiniITX | 1700 | 1851 |
 | --- | --- | --- | --- |
-| --- | M1 Case | Cougar MX670 RGB | Cougar MX670 RGB |
+|  | M1 Case | Cougar MX670 RGB | Cougar MX670 RGB |
 | Motherboard | [Asus ROG STRIX Z790-I GAMING WIFI](https://rog.asus.com/motherboards/rog-strix/rog-strix-z790-i-gaming-wifi-model/) | [Asus ProArt Z790-CREATOR WIFI](https://www.asus.com/motherboards-components/motherboards/proart/proart-z790-creator-wifi/) | [Asus ProArt Z890-CREATOR WIFI](https://www.asus.com/motherboards-components/motherboards/proart/proart-z890-creator-wifi/) |
 | CPU | Intel i9 14900K | Intel i9 14900K | Intel Ultra 9 285K |
 | Cooling |
-| RAM | 
+| RAM |  | [Kingstone KF560C32RS-48](https://www.kingston.com/en/memory/search/model/106328/asus-proart-z790-creator-wifi?capacity=48&kits=single%20module) |  |
 | Graphics |
 | Storage |
 | PSU |
