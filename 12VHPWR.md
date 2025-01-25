@@ -1,4 +1,4 @@
-# Standart (Type )
+# Standart (Type B)
 ```
 ____________
 [][][][][][]
@@ -6,7 +6,7 @@ ____________
   . . . .
 ```
 
-# Reverse (Type )
+# Reverse (Type A)
 ```
 ____________
   . . . .
